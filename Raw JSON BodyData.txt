@@ -1,0 +1,18 @@
+{
+    "price": "11150",
+    "currency": "EUR",
+    "min_person": "2",
+    "country": "Italië",
+    "region": "Campania",
+    "city": "Pisciotta"
+}
+
+
+{
+    "price": "956.00",
+    "currency": "EUR",
+    "min_person": "2",
+    "country": "Italië",
+    "region": "Sicilië",
+    "city": "Modica"
+}
